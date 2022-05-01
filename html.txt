@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-color: green;
+}
+
+h1 {
+  color: yellow;
+  text-align: center;
+}
+
+p {
+  font-family: arial;
+  font-size: 16px;
+}
+</style>
+</head>
+<body>
+
+<h1>Meu nome é Wendson Soares dos Santos</h1>
+<p>Sou de Minas Novas MG, município do Vale Jequitinhonha, trabalho como professor de Geografia.</p>
+
+</body>
+</html>
